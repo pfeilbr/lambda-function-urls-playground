@@ -1,0 +1,12 @@
+{
+  "name": "lambda-function-urls-playground",
+  "version": "1.0.0",
+  "description": "learn [Lambda function URLs](https://docs.aws.amazon.com/lambda/latest/dg/lambda-urls.html)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
